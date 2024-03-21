@@ -1,8 +1,8 @@
-# React + Vite
+# Log 36 (Duration: 2/6 Months)
+Today I learned about the React Router concept, including nested routes, and how to use Link, Outlet, and load data on routes using Loader and useLoaderData. I also learned about dynamic routes with params and how to load single user data, navigate on click using useNavigate, handle not found routes, utilize useParams, determine active routes, display loading spinners, access location information with useLocation, and use useNavigation.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Links
 
-Currently, two official plugins are available:
+Practice Task:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Netlify- https://incandescent-praline-d91932.netlify.app/
